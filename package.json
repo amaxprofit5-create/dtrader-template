@@ -112,7 +112,8 @@
         "stylelint-no-unsupported-browser-features": "^4.0.0",
         "stylelint-selector-bem-pattern": "^4.0.1",
         "stylelint-webpack-plugin": "^5.0.1",
-        "ts-jest": "^29.2.5"
+        "ts-jest": "^29.2.5",
+        "webpack-cli": "^7.0.2"
     },
     "scripts": {
         "dev": "npm exec --workspace=@deriv/core -- npm run serve",
